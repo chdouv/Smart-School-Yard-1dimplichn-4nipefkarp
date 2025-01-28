@@ -55,3 +55,24 @@
 4ο Εργαστήριο - Επαυξημένη Πραγματικότητα
 
 Αποτυπώνουν καλλιτεχνικά τον Τάλω στο χαρτί και με την βοήθεια της επαυξημένης πραγματικότητας και ενός προτζέκτορα ψυχαγωγούνται μέσω της Τέχνης. Ταυτόχρονα όμως όχι μόνο εκφράζονται μέσω της Τέχνης ζωντανεύοντας τον Τάλω, αλλά σκανάροντας διάφορα QR CODE  μεταφέρουν τα οικολογικά μηνύματα του Τάλου προς την κοινότητα, τα οποία έχουν «ντυθεί» με τις φωνές των παιδιών κατά τη διάρκεια των διδασκαλιών τους στο Νηπιαγωγείο που πραγματοποιήθηκαν το προηγούμενο διάστημα.
+
+Α/Α	Περιγραφή Υλικού			Τιμή	Ποσότητα	Κόστος
+1	BBC Micro:bit V2 Board (Bulk)	 	16,91 €		6	 	101,46 € 
+2	Elecfreaks Wukong Expansion Board	34,00 € 	6	 	204,00 € 
+3	Jumper Wires 30cm F-F - Pack of 10	2,20 € 		3	 	6,60 € 
+4	Jumper Wires 30cm F-M - Pack of 10	2,20 € 		3	 	6,60 € 
+5	Jumper Wires 30cm M-M - Pack of 10	2,20 € 		3	 	6,60 € 
+6	Smart AI Lens kit	 		90,00 € 	1	 	90,00 € 
+7	Octopus Light Sensor	 		2,23 € 		8	 	17,84 € 
+8	Octopus Temperature And Humidity Sensor	6,70 € 		1	 	6,70 € 
+9	8 RGB Rainbow LED Ring	 		5,00 € 		6	 	30,00 € 
+10	Geekservo 360 Degrees	 		13,00 € 	6	 	78,00 € 
+11	Gravity Digital Push Button (Green)	1,78 € 		6	 	10,68 € 
+12	Gravity Digital Push Button (Red)	1,78 € 		6	 	10,68 € 
+13	Creality 3D Ender-3 V3 KE	 	279,90€		1	 	279,90 € 
+14	PLA Pastel - 1.75mm 350g Green	 	9,90 € 		1	 	9,90 € 
+15	PLA Pastel - 1.75mm 350g Blue	 	9,90 € 		1	 	9,90 € 
+16	PLA Pastel - 1.75mm 350g Peach	 	9,90 € 		1	 	9,90 € 
+17	3D Pen με 10 Νήματα Εκτύπωσης Μπλε	10,00 €		10	 	100,00 € 
+18	BlitzWolf BW-V4 Projector Full HD LED	264,00€ 	1	 	264,00 € 
+
