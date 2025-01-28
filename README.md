@@ -1,4 +1,4 @@
-![εικόνα](https://github.com/user-attachments/assets/387c7947-b5c5-4ad5-ba80-85355513887e)# Smart-School-Yard-1dimplichn-4nipefkarp
+# Smart-School-Yard-1dimplichn-4nipefkarp
 Έξυπνη, Βιώσιμη και Διαδραστική Αυλή Νηπιαγωγείου, φιλική προς την Κοινότητα
 
 4ο ΝΗΠΙΑΓΩΓΕΙΟ ΕΥΚΑΡΠΙΑΣ – 10ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ ΠΟΛΙΧΝΗΣ
