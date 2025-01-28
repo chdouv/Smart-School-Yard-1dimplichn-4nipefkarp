@@ -1,4 +1,4 @@
-# Smart-School-Yard-1dimplichn-4nipefkarp
+![εικόνα](https://github.com/user-attachments/assets/387c7947-b5c5-4ad5-ba80-85355513887e)# Smart-School-Yard-1dimplichn-4nipefkarp
 Έξυπνη, Βιώσιμη και Διαδραστική Αυλή Νηπιαγωγείου, φιλική προς την Κοινότητα
 
 4ο ΝΗΠΙΑΓΩΓΕΙΟ ΕΥΚΑΡΠΙΑΣ – 10ο ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ ΠΟΛΙΧΝΗΣ
@@ -94,3 +94,4 @@
 
 18	BlitzWolf BW-V4 Projector Full HD LED	264,00€ 	1	 	264,00 € 
 
+Σύνολο: 1.242,76 € 
