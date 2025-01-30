@@ -94,4 +94,6 @@
 
 18	BlitzWolf BW-V4 Projector Full HD LED	264,00€ 	1	 	264,00 € 
 
+19  Mtiny (υπάρχουν ήδη στο Νηπιαγωγείο)
+
 Σύνολο: 1.242,76 € 
